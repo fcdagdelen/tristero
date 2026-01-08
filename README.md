@@ -1,8 +1,5 @@
 # Tristero
 
-> *"The secret underground postal network that reveals hidden connections."*
-> — Named after the Tristero system in Thomas Pynchon's *The Crying of Lot 49*
-
 An adaptive knowledge graph with real-time traversal visualization. Uses small specialized models (<50M params) for fast operations, with local LLM for synthesis.
 
 ## Core Thesis
