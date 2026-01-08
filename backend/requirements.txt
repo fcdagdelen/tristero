@@ -1,0 +1,23 @@
+# Web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+websockets==12.0
+python-multipart==0.0.6
+
+# Database
+chromadb==0.4.22
+
+# ML Models
+sentence-transformers==2.3.1
+gliner==0.2.7
+
+# Clustering
+hdbscan==0.8.33
+scikit-learn==1.4.0
+
+# Local LLM
+ollama==0.1.6
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
